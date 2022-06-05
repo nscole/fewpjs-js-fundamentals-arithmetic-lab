@@ -8,3 +8,12 @@ function multiply (){
 }
 
 multiply = 62
+
+let random = Math.floor(Math.random() * 10) + 1;
+
+//Second Test
+    function random(random) {
+        Number.isInteger();
+        return random
+    }
+
