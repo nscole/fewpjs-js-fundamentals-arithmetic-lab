@@ -15,5 +15,14 @@ let random = Math.floor(Math.random() * 10) + 1;
     function random(random) {
         Number.isInteger();
         return random
-    }
+    };
 
+// Third test
+    let num3 = 2;
+    let num4 = 2;
+
+    function mod (){
+        num3 + num4
+    };
+
+    mod = 4;

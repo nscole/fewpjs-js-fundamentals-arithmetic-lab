@@ -15,6 +15,7 @@ describe('index.js', function() {
       expect(random).to.not.eq(0)
     });
   });
+  
   describe('mod', function() {
     it("is an equation that calculates a remainder that is equal to 4", function() {
       expect(num3).to.be.a('number')
