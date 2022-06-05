@@ -26,3 +26,10 @@ let random = Math.floor(Math.random() * 10) + 1;
     };
 
     mod = 4;
+
+// Question 4
+    function max (){
+        Math.max(1, 2, 4, 5, 10, 20);
+    }
+
+    max = 20;
